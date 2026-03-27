@@ -14,15 +14,22 @@ Python으로 만든 리얼타임 CLI 게임입니다. 자동으로 내려오는 
 
 ## 🚀 실행 방법
 
-### 1. 코드 다운로드
+### 🌐 온라인에서 바로 플레이 (추천!)
+[![Run on Replit](https://replit.com/badge/github/Koeuna0114/moving-cat)](https://replit.com/github/Koeuna0114/moving-cat)
+
+Replit 버튼을 클릭하면 브라우저에서 바로 게임을 플레이할 수 있습니다! 🎮
+
+### 💻 로컬에서 플레이
+
+#### 1. 코드 다운로드
 ```bash
-git clone https://github.com/your-username/cat-dodge-game.git
-cd cat-dodge-game
+git clone https://github.com/Koeuna0114/moving-cat.git
+cd moving-cat
 ```
 
-### 2. 게임 실행
+#### 2. 게임 실행
 ```bash
-python3 cat_dodge_game.py
+python3 lab_w04/lab_w04/cat_dodge_game.py
 ```
 
 ## 🎯 게임 규칙
